@@ -28,7 +28,7 @@ const handleSubmit = () => {
     <div class="text-center">
       <h2>Sign up</h2>
       <h6>Get your chat via account now</h6>
-      <form class="text-left padding-20 bg-color-gray">
+      <form class="text-left padding-20 bg-color-gray mg-b-10">
         <h4>Username</h4>
         <input
           type="text"
