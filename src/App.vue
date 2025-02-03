@@ -5,8 +5,8 @@ import Login from "./components/Login.vue";
 
 <template>
   <main>
-    <!-- <Signup /> -->
-    <Login />
+    <Signup />
+    <!-- <Login /> -->
   </main>
 </template>
 
