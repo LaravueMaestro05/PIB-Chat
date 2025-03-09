@@ -4,7 +4,7 @@ import Login from "../components/Login.vue";
 import Signup from "../components/Signup.vue";
 
 const routes = [
-    { path: '/', component: Login },
+    { path: '/signin', component: Login },
     { path: '/signup', component: Signup }
 ]
 

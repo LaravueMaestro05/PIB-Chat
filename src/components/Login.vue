@@ -54,7 +54,7 @@ const handleSubmit = () => {
           Register now
         </RouterLink>
       </h4>
-      <h4>@2026 PIB Corporation</h4>
+      <h4>@2025 PIB Corporation</h4>
     </div>
   </div>
 </template>

@@ -62,11 +62,11 @@ const handleSubmit = () => {
       </form>
       <h4>
         Aleardy have an account?
-        <RouterLink to="/">
+        <RouterLink to="/signin">
           Signin
         </RouterLink>
       </h4>
-      <h4>@2026 Chatvia Crafted with by Themebrand</h4>
+      <h4>@2025 Chatvia Crafted with by Themebrand</h4>
     </div>
   </div>
 </template>
