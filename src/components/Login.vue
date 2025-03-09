@@ -48,7 +48,12 @@ const handleSubmit = () => {
           Login
         </button>
       </form>
-      <h4>Don't have an account? Register now</h4>
+      <h4>
+        Don't have an account? 
+        <RouterLink to="/signup">
+          Register now
+        </RouterLink>
+      </h4>
       <h4>@2026 PIB Corporation</h4>
     </div>
   </div>

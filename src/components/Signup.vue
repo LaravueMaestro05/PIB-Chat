@@ -60,7 +60,12 @@ const handleSubmit = () => {
         </button>
         <h4>By registering you agree to the Chatvia Terms of Use</h4>
       </form>
-      <h4>Aleardy have an account? Signin</h4>
+      <h4>
+        Aleardy have an account?
+        <RouterLink to="/">
+          Signin
+        </RouterLink>
+      </h4>
       <h4>@2026 Chatvia Crafted with by Themebrand</h4>
     </div>
   </div>

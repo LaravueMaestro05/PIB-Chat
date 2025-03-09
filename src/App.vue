@@ -1,12 +1,6 @@
-<script setup>
-import Signup from "./components/Signup.vue";
-import Login from "./components/Login.vue";
-</script>
-
 <template>
   <main>
-    <Signup />
-    <!-- <Login /> -->
+    <RouterView />
   </main>
 </template>
 
